@@ -12,7 +12,6 @@
 ```
 
 - Settings Environment Variables ans start the server application:
--
 
 ```ts
   yarn dev
