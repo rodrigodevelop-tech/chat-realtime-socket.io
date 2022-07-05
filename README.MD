@@ -11,9 +11,8 @@
   yarn install or npm install
 ```
 
-💾 Settings Environment Variables.
-
-- Start the server application:
+- Settings Environment Variables ans start the server application:
+-
 
 ```ts
   yarn dev
@@ -25,7 +24,8 @@
   yarn install or npm install
 ```
 
-- Before running web application, make sure the server is running.
+- Before running web application, make sure the server is running
+
 - Start the web application:
 
 ```ts
